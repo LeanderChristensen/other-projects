@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Simon Game</title>
+<link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Oswald|VT323" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="https://leanderchristensen.com/css/leander.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body class="unselectable">
+<a href="https://leanderchristensen.com/games/"><div id="backdiv"><i id="back" class="material-icons">navigate_before</i></div></a>
+<div id="mainframe">
+  <div id="one" onclick="Press(1)" class="quarter quarter1"></div>
+  <div id="two" onclick="Press(2)" class="quarter quarter2"></div>
+  <div id="three" onclick="Press(3)" class="quarter quarter3"></div>
+  <div id="four" onclick="Press(4)" class="quarter quarter4"></div>
+<div id="middle">
+<span id="simonText">Simon</span>
+<div id="count">
+<span id="countNumber">--</span>
+</div>
+<span id="countText">COUNT</span>
+<div id="start" onclick="play()"><span id="startText">START</span></div>
+</div>
+</div>
+</body>
+<script src="js/script.js"></script>
+</html>
