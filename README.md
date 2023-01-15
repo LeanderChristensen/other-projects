@@ -1,4 +1,4 @@
 # simon-game
 freeCodeCamp challenge
 
-Demo link: https://leanderchristensen.com/games/simon/
+Demo link: https://leander.cx/games/simon/
