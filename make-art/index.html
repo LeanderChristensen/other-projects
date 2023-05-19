@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Fun Stuff</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://leanderchristensen.com/css/leander.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
+</head>
+<body>
+<a href="https://leanderchristensen.com/games/"><div id="backdiv" class="unselectable"><i id="back" class="material-icons">navigate_before</i></div></a>
+<div ng-app="app" ng-controller="ctrl">
+  <div style="text-align:center;">
+    <input type="text" ng-model="text" placeholder="Type something" ng-change="change()">
+  </div>
+  <h1 id="text">{{text}}</h1>
+</div>
+</body>
+<script src="js/script.js"></script>
+</html>
