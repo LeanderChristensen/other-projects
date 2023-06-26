@@ -1,0 +1,65 @@
+img {
+	max-width: 100%;
+	padding: 3%;
+}
+
+h1 {
+	border-bottom: 1px solid lightgray;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	border-bottom: 1px solid lightgray;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+code {
+	background-color: #f8f8f8;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1px 4px;
+	font-family: Monaco, monospace;
+	font-size: 0.85em;
+}
+
+blockquote {
+	margin-left: 25px;
+	padding-left: 6px;
+	border-left: 4px solid black;
+}
+
+table, th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+table {
+	margin-bottom: 15px;
+}
+
+textarea.form-control:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+#editorWrapper {
+	margin: 2% auto 2% auto;
+	width: 35%;
+}
+
+#editor {
+	width: 100%;
+	min-height: 262px;
+	border-radius: 10px;
+}
+
+#preview {
+	margin: 0 auto 2% auto;
+	width: 50%;
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	padding: 1%;
+	min-height: 400px;
+}
