@@ -18,3 +18,13 @@ Type into the box and your text turn into art
 [l-c.io/markdown-previewer](https://l-c.io/markdown-previewer/)
 
 ![markdown-previewer preview](https://i.imgur.com/09F2nVE.png)
+
+## rain
+[Rain in HTML5 canvas](https://l-c.io/rain)
+
+![rain preview](https://i.imgur.com/UFd2sih.png)
+
+## orbit
+[Orbit in HTML5 canvas test](https://l-c.io/orbit)
+
+![orbit preview](https://i.imgur.com/A8F1UkM.png)
