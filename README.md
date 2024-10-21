@@ -1,3 +1,10 @@
+## fun
+The landing page for my games
+
+[https://l-c.io/fun/](https://l-c.io/fun/)
+
+![Image of the landing page for my games](https://l-c.io/github-img/fun.png)
+
 ## orbit
 [Orbit in HTML5 canvas test](https://l-c.io/fun/orbit)
 
@@ -13,7 +20,7 @@
 
 [l-c.io/markdown-previewer](https://l-c.io/freecodecamp/markdown-previewer/)
 
-![markdown-previewer preview](https://i.imgur.com/09F2nVE.png)
+![markdown-previewer preview](https://l-c.io/github-img/markdown-previewer.png)
 
 ## simon-game
 [freeCodeCamp challenge](https://en.wikipedia.org/wiki/Simon_(game))
