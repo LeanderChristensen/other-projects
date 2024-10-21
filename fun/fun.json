@@ -1,0 +1,49 @@
+{
+	"projects": [
+	{
+		"name": "Make Art",
+		"link": "https://l-c.io/fun/make-art",
+		"image": "https://l-c.io/fun/images/makeart.png"
+	},
+	{
+		"name": "Simon",
+		"link": "https://l-c.io/fun/simon",
+		"image": "https://l-c.io/fun/images/simon.png"
+	},
+	{
+		"name": "Platformer",
+		"link": "https://l-c.io/fun/platformer",
+		"image": "https://l-c.io/fun/images/platformer.png"
+	},
+	{
+		"name": "Flappy Bird",
+		"link": "https://l-c.io/fun/flappybird",
+		"image": "https://l-c.io/fun/images/flappybird.gif"
+	},
+	{
+		"name": "Space Invaders",
+		"link": "https://l-c.io/fun/spaceinvaders",
+		"image": "https://l-c.io/fun/images/spaceinvaders.gif"
+	},
+	{
+		"name": "Rain",
+		"link": "https://l-c.io/fun/rain",
+		"image": "https://l-c.io/fun/images/rain.png"
+	},
+	{
+		"name": "Orbit",
+		"link": "https://l-c.io/fun/orbit",
+		"image": "https://l-c.io/fun/images/orbit.png"
+	},
+	{
+		"name": "Slots",
+		"link": "https://l-c.io/fun/slots",
+		"image": "https://l-c.io/fun/images/slots.png"
+	},
+	{
+		"name": "Snake",
+		"link": "https://l-c.io/fun/snake",
+		"image": "https://l-c.io/fun/images/snake.png"
+	}
+	]
+  }
