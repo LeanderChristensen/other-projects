@@ -1,30 +1,30 @@
-## make-art
-Type into the box and your text turn into art
+## orbit
+[Orbit in HTML5 canvas test](https://l-c.io/fun/orbit)
 
-[l-c.io/games/make-art](https://l-c.io/games/make-art)
+![orbit preview](https://i.imgur.com/A8F1UkM.png)
 
-![make-art preview](https://i.imgur.com/SLAPIrT.png)
+## rain
+[Rain in HTML5 canvas](https://l-c.io/fun/rain)
 
-## simon-game
-[freeCodeCamp challenge](https://en.wikipedia.org/wiki/Simon_(game))
-
-[l-c.io/games/simon](https://l-c.io/games/simon)
-
-![simon-game preview](https://i.imgur.com/8u9ZbeW.png)
+![rain preview](https://i.imgur.com/UFd2sih.png)
 
 ## markdown-previewer
 [freeCodeCamp challenge](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)
 
-[l-c.io/markdown-previewer](https://l-c.io/markdown-previewer/)
+[l-c.io/markdown-previewer](https://l-c.io/freecodecamp/markdown-previewer/)
 
 ![markdown-previewer preview](https://i.imgur.com/09F2nVE.png)
 
-## rain
-[Rain in HTML5 canvas](https://l-c.io/rain)
+## simon-game
+[freeCodeCamp challenge](https://en.wikipedia.org/wiki/Simon_(game))
 
-![rain preview](https://i.imgur.com/UFd2sih.png)
+[l-c.io/fun/simon](https://l-c.io/fun/simon)
 
-## orbit
-[Orbit in HTML5 canvas test](https://l-c.io/orbit)
+![simon-game preview](https://i.imgur.com/8u9ZbeW.png)
 
-![orbit preview](https://i.imgur.com/A8F1UkM.png)
+## make-art
+Type into the box and your text turn into art
+
+[l-c.io/fun/make-art](https://l-c.io/fun/make-art)
+
+![make-art preview](https://i.imgur.com/SLAPIrT.png)
